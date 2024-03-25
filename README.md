@@ -28,7 +28,7 @@ Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros pass
 Mariana Carmo (Follow me on [Linkedin](https://www.linkedin.com/in/mariana-oliveira-carmo/))
 
 ## License
-
+```
 The MIT License (MIT)
 
 Copyright (c) 2024 Roque Buarque Junior
