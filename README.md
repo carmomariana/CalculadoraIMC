@@ -7,18 +7,25 @@ Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros pass
 
 
 ## Tecnologias
-- Activity
-- Intent
-- Snackbar
-- ViewGroups
-  - LinearLayout
-  - ConstraintLayout
-- Views
-  - ImageView
-  - TextView
-  - EditText
-  - Button  
+* Kotlin
+* Activity para host de telas
+* ViewGroup
+    * RelativeLayout
+    * LinearLayout
+- Components de UI
+    - TextView
+    - EditText
+    - Button
+- Toast para display de mensagens
+- Intent Explicita para abrir a segunda Activity
+- FindViewById para recuperar components de UI
+- String resource para concatenação de textos
 
+### TODO
+- Melhorar estilização do app
+
+### Author
+Mariana Carmo (Follow me on [Linkedin](https://www.linkedin.com/in/mariana-oliveira-carmo/))
 
 ## License
 
